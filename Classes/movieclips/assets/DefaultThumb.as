@@ -6,6 +6,7 @@
 
 class movieclips.assets.DefaultThumb extends MovieClip
 {
+	private var labelFrame:String = "up";
 	private function DefaultThumb()
 	{
 		StateControl();
